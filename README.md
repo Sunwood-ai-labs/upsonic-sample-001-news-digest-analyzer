@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Upsonic News Digest Analyzer">
+  <img src="assets/header.svg" alt="Upsonic News Digest Analyzer" width="100%">
 </p>
 
 <h1 align="center">📰 Upsonicニュース要約サンプル</h1>
